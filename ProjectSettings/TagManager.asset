@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bullets
+  - Enemy
+  - New tag
+  - Win
+  - Level 1
+  - Level 2
+  - Level 3
   layers:
   - Default
   - TransparentFX
